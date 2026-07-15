@@ -34,3 +34,4 @@ https://pranav12333.github.io/Pranav-Parmar-portfolio/
 - LinkedIn: https://www.linkedin.com/in/pranav-parmar-webdeveloper/
 - YouTube: https://www.youtube.com/@pranav_parmar_123
 - Email: parmarhn50@gmail.com
+- Instagram : https://www.instagram.com/pranav_parmar.12333?igsh=bXB3MWRjcmdoZmgx&utm_source=qr
