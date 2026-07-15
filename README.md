@@ -1,89 +1,36 @@
-# Hi, I'm Pranav Parmar 👋
+# Pranav Parmar
 
-## Full Stack Developer | Angular Developer | React Developer | Node.js Developer
+### Full Stack Developer | Angular Developer | React Developer | Node.js Developer
 
-I'm **Pranav Parmar**, a **Full Stack Developer** with **3+ years of experience** building enterprise web applications, scalable APIs, and real-time systems. My expertise includes **Angular, React, Node.js, Express.js, TypeScript, JavaScript, MongoDB, WebSocket, and MQTT**.
+I'm a Full Stack Developer with **3+ years of experience** delivering enterprise web applications, scalable APIs, and real-time systems. I work across the complete development lifecycle—from designing intuitive user experiences to building robust backend services and deploying production-ready solutions.
 
-I specialize in solving complex technical challenges, debugging production issues, optimizing application performance, and managing efficient Git workflows. I focus on building scalable, maintainable, and business-oriented software solutions.
+My strengths lie in **problem solving, debugging complex applications, optimizing performance, and managing efficient Git workflows**, including branch strategy, release management, and merge conflict resolution. I believe in writing clean, maintainable code that is easy to scale and collaborate on.
 
----
+## 💼 Experience
 
-## 🚀 Core Expertise
-
-- Full Stack Web Development
-- Angular & React Development
-- Node.js & Express.js
-- TypeScript & JavaScript
+- **3+ Years** of professional software development experience
+- Enterprise Web Applications
+- Real-time & IoT Solutions
 - REST API Development
-- MongoDB
-- Real-time Applications (WebSocket & MQTT)
-- Debugging & Performance Optimization
-- Git Workflow Management
-- Branch Strategy & Merge Conflict Resolution
-- CI/CD & Deployment
+- Cross-functional Team Collaboration
 
----
+## 🛠️ Technologies
 
-## 🛠️ Tech Stack
+**Frontend:** Angular, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
 
-**Frontend**
+**Backend:** Node.js, Express.js, REST APIs, Socket.IO
 
-- Angular
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
+**Database:** MongoDB
 
-**Backend**
-
-- Node.js
-- Express.js
-- REST APIs
-- Socket.IO
-
-**Database**
-
-- MongoDB
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Docker
-- GitHub Actions
-
----
+**Tools:** Git, GitHub, Docker, Postman, VS Code, GitHub Actions
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio Website**
-
+**Portfolio:**  
 https://pranav12333.github.io/Pranav-Parmar-portfolio/
 
----
+## 🤝 Connect
 
-## 🤝 Connect With Me
-
-**LinkedIn**
-
-https://www.linkedin.com/in/pranav-parmar-webdeveloper/
-
-**GitHub**
-
-https://github.com/Pranav12333
-
-**YouTube**
-
-https://www.youtube.com/@pranav_parmar_123
-
-**Email**
-
-parmarhn50@gmail.com
-
----
-
-⭐ I believe in writing clean, maintainable code, solving complex engineering problems, and continuously improving software quality through collaboration, debugging, and efficient development practices.
+- LinkedIn: https://www.linkedin.com/in/pranav-parmar-webdeveloper/
+- YouTube: https://www.youtube.com/@pranav_parmar_123
+- Email: parmarhn50@gmail.com
